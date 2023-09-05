@@ -3,3 +3,8 @@ p {
     font-size: 20px;
     color: aliceblue;
 }
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
